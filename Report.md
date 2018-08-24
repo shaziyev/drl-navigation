@@ -41,7 +41,7 @@ Episode 1198	Average Score: 16.01
 Environment solved in 1098 episodes!	Average Score: 16.01
 ```
 
-![Rewards Plot](attachment:image.png)
+![Rewards Plot](plot.png)
 
 ### Future Ideas
 It would be great to compare performance of Double DQN (DDQN), Dueling DQN, Prioritized DQN, Noisy DQN and finally Rainbow
