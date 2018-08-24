@@ -6,7 +6,7 @@
 
 ### Introduction
 
-For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
+In this project an intelligent agent navigates (and collect bananas!) in a large, square world.
 
 [![Trained Agent](https://img.youtube.com/vi/xJ4deqLd1qU/0.jpg)](https://www.youtube.com/watch?v=xJ4deqLd1qU)
 
@@ -18,7 +18,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 - **`2`** - turn left.
 - **`3`** - turn right.
 
-The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
+The task is episodic, and in order to solve the environment, your agent must get an average score of +16 over 100 consecutive episodes.
 
 ### Getting Started
 
